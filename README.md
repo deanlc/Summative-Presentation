@@ -1,11 +1,11 @@
 #Summative Presentations
-Name: Dean Chalk
+**Name:** Dean Chalk
 
-Student No: 96291515
+**Student No:** 96291515
 
-Course: BA (Hons) Web Media, Level 1
+**Course:** BA (Hons) Web Media, Level 1
 
-Unit Code: 
+**Unit Code:** WEB14103
 
 ##Introduction
 
@@ -20,9 +20,9 @@ Unit Code:
 9. Week 9: CSS tricks
 
 ##Projects
-1. [Eyebombing](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1fKzT6UncrZ4-Eq9HKPfxZni0BBSqnteSGG5pQrK8uw4/edit?usp=sharing)
-2. [OneTweet](https://docs.google.com/a/students.rave.ac.uk/presentation/d/14LiWliQ7ZrVYr-d4z4AT8vJZ2vJO6E1knxZD6uvf8ZU/edit?usp=sharing)
-3. [Union Hack](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1wpCSnG4Iu_bIg69B5_zRYUI66WXLWFX2LX4Mx9IauzU/edit?usp=sharing)
-4. [Code in your plate - Brownie Recipe
+- [Eyebombing](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1fKzT6UncrZ4-Eq9HKPfxZni0BBSqnteSGG5pQrK8uw4/edit?usp=sharing)
+- [OneTweet](https://docs.google.com/a/students.rave.ac.uk/presentation/d/14LiWliQ7ZrVYr-d4z4AT8vJZ2vJO6E1knxZD6uvf8ZU/edit?usp=sharing)
+- [Union Hack](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1wpCSnG4Iu_bIg69B5_zRYUI66WXLWFX2LX4Mx9IauzU/edit?usp=sharing)
+- [Code in your plate - Brownie Recipe
 ](https://d157rqmxrxj6ey.cloudfront.net/onaed/14823/)
 	i. [Source code](github link here)
