@@ -10,14 +10,14 @@
 ##Introduction
 
 ##Blog Posts
-1. Week 1: EyeBombing
-2. Week 2: OneTweet
-3. Week 3: Union Hack
-4. Week 4: peer learning
-5. Week 5: formative assessment
-7. Week 7: The Web's Grain
-8. Week 8: Code in your plate
-9. Week 9: CSS tricks
+1. **Week 1:** [EyeBombing]()
+2. **Week 2:** [OneTweet]()
+3. **Week 3:** [Union Hack]()
+4. **Week 4:** [Peer Learning]()
+5. **Week 5:** [Formative Assessment]()
+7. **Week 7:** [The Web's Grain]()
+8. **Week 8:** [Code in your Plate]()
+9. **Week 9:** [CSS tricks]()
 
 ##Projects
 - [Eyebombing](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1fKzT6UncrZ4-Eq9HKPfxZni0BBSqnteSGG5pQrK8uw4/edit?usp=sharing)
