@@ -26,3 +26,5 @@
 - [Code in your plate - Brownie Recipe
 ](https://d157rqmxrxj6ey.cloudfront.net/onaed/14823/)
 	i. [Source code](github link here)
+	
+<script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@deanleechalk/test-72a145206483">test</a>
