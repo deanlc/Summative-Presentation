@@ -21,9 +21,9 @@ So far during this term we have presented many presentations and used Illustrato
 9. **Week 9:** [CSS tricks](https://medium.com/@deanlc/how-to-centre-elements-183fb5771d4d#.hkffhdye1)
 
 ##Projects
-- [Eyebombing](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1fKzT6UncrZ4-Eq9HKPfxZni0BBSqnteSGG5pQrK8uw4/edit?usp=sharing)
-- [OneTweet](https://docs.google.com/a/students.rave.ac.uk/presentation/d/14LiWliQ7ZrVYr-d4z4AT8vJZ2vJO6E1knxZD6uvf8ZU/edit?usp=sharing)
-- [Union Hack](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1wpCSnG4Iu_bIg69B5_zRYUI66WXLWFX2LX4Mx9IauzU/edit?usp=sharing)
+- [Eyebombing](https://docs.google.com/presentation/d/1HbvUP91evRa1wHiU7rOPhUfE0j69baHEuK6EntbCRWw/edit?usp=sharing)
+- [OneTweet](https://docs.google.com/presentation/d/1-4634VL1y3-rIyJ48DzZnTej7_jVyXfAU6HLWLsSUCQ/edit?usp=sharing)
+- [Union Hack](https://docs.google.com/presentation/d/1lBE9XRb9H26RMvdSKNN_4xqLUY-HqFxvzzalUTG9lVY/edit?usp=sharing)
 - [Code in your plate - Brownie Recipe
 ](https://d157rqmxrxj6ey.cloudfront.net/onaed/16155/)
 	- [Source code](https://github.com/deanlc/Summative-Presentation/tree/master/Brownie%20Recipe)
