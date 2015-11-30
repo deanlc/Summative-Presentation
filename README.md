@@ -8,7 +8,10 @@
 **Unit Code:** WEB14103
 
 ##Introduction
-So far during this term we have presented many presentations and used Illustrator to design different graphics.
+So far during this term we have started four projects, EyeBombing, OneTweet, Union Hack and Code in your plate. We have given presentations about all these things and also given presentations about various topics.
+
+
+Below are links to the work I have done for this term.
 
 ##Blog Posts
 1. **Week 1:** [EyeBombing](https://medium.com/@deanlc/eyebombing-d0e7ba21011c#.kuum4gz68)
@@ -21,7 +24,7 @@ So far during this term we have presented many presentations and used Illustrato
 9. **Week 9:** [CSS tricks](https://medium.com/@deanlc/how-to-centre-elements-183fb5771d4d#.hkffhdye1)
 
 ##Projects
-- [Eyebombing](https://docs.google.com/presentation/d/1HbvUP91evRa1wHiU7rOPhUfE0j69baHEuK6EntbCRWw/edit?usp=sharing)
+- [EyeBombing](https://docs.google.com/presentation/d/1HbvUP91evRa1wHiU7rOPhUfE0j69baHEuK6EntbCRWw/edit?usp=sharing)
 - [OneTweet](https://docs.google.com/presentation/d/1-4634VL1y3-rIyJ48DzZnTej7_jVyXfAU6HLWLsSUCQ/edit?usp=sharing)
 - [Union Hack](https://docs.google.com/presentation/d/1lBE9XRb9H26RMvdSKNN_4xqLUY-HqFxvzzalUTG9lVY/edit?usp=sharing)
 - [Code in your plate - Brownie Recipe
