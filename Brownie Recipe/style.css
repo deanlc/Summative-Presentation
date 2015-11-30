@@ -1,0 +1,65 @@
+/* lolhi */
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black;
+  opacity: .9;
+  max-width: 800px;
+}
+
+img {
+  width: 50%;
+  max-width: 600;
+  float: right;
+  padding-left: 0px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+h1, h2 {
+  color:cornflowerblue;
+  font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+p {
+  color: whitesmoke;
+  font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+ul, ol {
+  color: whitesmoke;
+  font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+h1, h2, p, ul li {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+ul, ol {
+  padding-left: 10;
+  list-style: none;
+  max-width: 50;
+}
+
+ol li {
+  counter-increment: item;
+}
+
+ol li p:before {
+  content: counter(item);
+  position: absolute;
+  left: 0.9rem;
+  color:dodgerblue;
+  font-size: 5rem;
+  opacity: .7; 
+}
+
+
+/*Media Queries*/
+@media (min-width: 40rem) {
+ body {cc
+   max-width: 40rem;
+   margin: 0 auto;
+ }
+} /* End Media Queries*/
